@@ -1,0 +1,9 @@
+[submodule "doctor-service"]
+	path = doctor-service
+	url = https://github.com/thambe96/ECA-Petclinic-Service-Doctor-Service.git
+[submodule "pet-service"]
+	path = pet-service
+	url = https://github.com/thambe96/ECA-Petclinic-Project-Pet-Service.git
+[submodule "appointment-service"]
+	path = appointment-service
+	url = https://github.com/thambe96/ECA-Petclinic-Project-Appoinment-Service.git
